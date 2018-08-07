@@ -12,4 +12,10 @@ public class DefaultController {
         return "index.html";
     }
 
+    @RequestMapping("/greeting")
+    public String greeting() throws Exception {
+
+        return "pages/greeting.html";
+    }
+
 }
