@@ -1,4 +1,6 @@
-= REST API Level 0 - Spring Boot Booster
+= Sample Spring Boot project at OpenShift (pipelined with Jenkins)
+
+== REST API Level 0 - Spring Boot Booster
 
 IMPORTANT: This booster requires Java 8 JDK or greater and Maven 3.3.x or greater.
 
